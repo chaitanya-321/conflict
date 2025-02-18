@@ -6,9 +6,3 @@ hello
     </head>
 
 </html>
- 
-
-hello 
-this anudeep
-working as devops
-coming soon

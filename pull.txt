@@ -1,3 +1,0 @@
-hello 
-iam anudeep 
-working as aws &devops engineer

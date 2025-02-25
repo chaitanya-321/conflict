@@ -1,8 +1,0 @@
-hello
-<html>
-    <title> industries </title>
-    <head>
-         <h1> this is reading room </h1>
-    </head>
-
-</html>
